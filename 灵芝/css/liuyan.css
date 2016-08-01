@@ -1,0 +1,214 @@
+.clear:after
+{
+	clear: both;
+	content:"";
+	display: block;
+}
+.top
+{
+	height: 42px;
+	background: #010102;
+}
+.toper
+{
+	margin:0 auto;
+	width: 1150px;
+	height: 42px;
+}
+.a
+{
+	float: left;
+	width: 100px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0
+{
+	float: left;
+	width: 150px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0 a
+{
+	color: #dddddd;
+	font-size: 20px;
+	font-family: "microsoft yahei";
+}
+.a a
+{
+	color: #dddddd;
+	font-size: 12px;
+	font-family: "microsoft yahei";
+}
+.footer
+{
+	height: 80px;
+	background: #F4F4F4;
+}
+.foot
+{
+	width: 1150px;
+	margin:0 auto;
+	height: 80px;
+	line-height: 80px;
+}
+.f
+{
+	float: left;
+}
+.f a
+{
+	color: #949494;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	font-size: 12px;
+
+}
+.ff
+{
+	display: inline-block;
+	width: 750px;
+	height: 80px;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	color: #949494;
+	font-size: 12px;
+	float: left;
+}
+.o
+{
+	float: left;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+}
+.zhong
+{
+	width: 1366px;
+	height: 870px;
+	background: url(../img/back.png) no-repeat 50%  #09070E;
+	margin:0 auto;
+	overflow: hidden;
+}
+.content
+{
+	width: 1100px;
+	height: 795px;
+	margin:35px auto;
+	background: #F5F5F5;
+	overflow: hidden;
+	font-family: "microsoft yahei";
+}
+.con
+{
+	width: 1040px;
+	height:645px;
+	background: white;
+	margin:0 auto;
+}
+.h1
+{
+	width:106px;
+	height:27px;
+	background: #CB00DA;
+	text-indent: 15px;
+	color: white;
+	margin-top: 56px;
+	margin-left: 30px;
+	line-height: 27px;
+}
+.lianjie
+{
+	display: inline-block;
+	width: 24px;
+	height: 22px;
+	background: #EBEBEB;
+	text-align: center;
+	font-family: "microsoft yahei";
+}
+.lianjie1
+{
+	display: inline-block;
+	width: 54px;
+	height: 22px;
+	background: #EBEBEB;
+	text-align: center;
+	font-family: "microsoft yahei";
+}
+
+.shuru
+{
+	width: 40px;
+	height: 24px;
+	background: #EBEBEB;
+}
+.zhong span
+{
+	color: #3c3c3c;
+	font-family: "microsoft yahei";
+}
+.tiaozhuan
+{
+	margin-left: 640px;
+	margin-top: 35px;
+	width: 390px;
+}
+.lianjie:active
+{
+	background: #7B2783;
+	color: white;
+}
+.lianjie1:active
+{
+	background: #7B2783;
+	color: white;
+}
+.q
+{
+	width: 980px;
+	height: 110px;
+	border-top: 2px #E8E8E8 dotted;
+	margin-left: 30px;
+}
+.q0
+{
+	width: 56px;
+	height: 56px;
+	margin-top: 27px;
+	border-radius: 50%;
+	overflow: hidden;
+	float: left;
+}
+.p img
+{
+	width: 56px;
+	height: 56px;
+}
+.q1
+{
+	float: left;
+	width: 720px;
+	height:60px;
+	line-height: 20px;
+	margin-top: 27px;
+	margin-left:10px;
+}
+.zi
+{
+	color: #3c3c3c;
+	font-size: 12px;
+}
+.q2
+{
+	width: 180px;
+	height: 35px;
+	color: #3c3c3c;
+	font-size: 12px;
+	float: left;
+	margin-top: 75px;
+	margin-left:14px;
+	line-height: 35px;
+}

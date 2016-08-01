@@ -1,0 +1,103 @@
+.clear:after
+{
+	clear: both;
+	content:"";
+	display: block;
+}
+.top
+{
+	height: 42px;
+	background: #010102;
+}
+.toper
+{
+	margin:0 auto;
+	width: 1150px;
+	height: 42px;
+}
+.a
+{
+	float: left;
+	width: 100px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0
+{
+	float: left;
+	width: 150px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0 a
+{
+	color: #dddddd;
+	font-size: 20px;
+	font-family: "microsoft yahei";
+}
+.a a
+{
+	color: #dddddd;
+	font-size: 12px;
+	font-family: "microsoft yahei";
+}
+.footer
+{
+	height: 80px;
+	background: #F4F4F4;
+}
+.foot
+{
+	width: 1150px;
+	margin:0 auto;
+	height: 80px;
+	line-height: 80px;
+}
+.f
+{
+	float: left;
+}
+.f a
+{
+	color: #949494;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	font-size: 12px;
+
+}
+.ff
+{
+	display: inline-block;
+	width: 750px;
+	height: 80px;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	color: #949494;
+	font-size: 12px;
+	float: left;
+}
+.o
+{
+	float: left;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+}
+.zhong
+{
+	width: 1366px;
+	height: 608px;
+	background: #09070E;
+	margin:0 auto;
+	overflow: hidden;
+}
+.bai
+{
+	width: 1137px;
+	height: 536px;
+	background: url(../img/zhici.png);
+	margin:20px auto;
+
+}

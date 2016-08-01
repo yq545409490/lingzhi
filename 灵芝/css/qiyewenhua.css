@@ -1,0 +1,127 @@
+.clear:after
+{
+	clear: both;
+	content:"";
+	display: block;
+}
+.top
+{
+	height: 42px;
+	background: #010102;
+}
+.toper
+{
+	margin:0 auto;
+	width: 1150px;
+	height: 42px;
+}
+.a
+{
+	float: left;
+	width: 100px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0
+{
+	float: left;
+	width: 150px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0 a
+{
+	color: #dddddd;
+	font-size: 20px;
+	font-family: "microsoft yahei";
+}
+.a a
+{
+	color: #dddddd;
+	font-size: 12px;
+	font-family: "microsoft yahei";
+}
+.footer
+{
+	height: 80px;
+	background: #F4F4F4;
+}
+.foot
+{
+	width: 1150px;
+	margin:0 auto;
+	height: 80px;
+	line-height: 80px;
+}
+.f
+{
+	float: left;
+}
+.f a
+{
+	color: #949494;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	font-size: 12px;
+
+}
+.ff
+{
+	display: inline-block;
+	width: 750px;
+	height: 80px;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	color: #949494;
+	font-size: 12px;
+	float: left;
+}
+.o
+{
+	float: left;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+}
+.h1
+{
+	width: 1100px;
+	height: 60px;
+	line-height: 70px;
+	color: white;
+	font-size: 14px;
+	border-bottom: 2px #141220 solid;
+	margin:0 auto;
+}
+.zhong
+{
+	width: 1366px;
+	height: 1050px;
+	background: url(../img/back.png) no-repeat 50%  #09070E;
+	margin:0 auto;
+	font-family: "microsoft yahei";
+}
+.content
+{
+	width: 1140px;
+	height: 888px;
+	margin :30px auto;
+	overflow: hidden;
+	background: url(../img/shu.png)no-repeat white 1%;
+}
+.zi
+{
+	margin-left: 40px;
+	font-size: 16px;
+	color: #3b3b3b;
+}
+.zi0
+{
+	margin-top: 40px;
+}
+.zi1
+{
+	margin-top: 100px;
+}

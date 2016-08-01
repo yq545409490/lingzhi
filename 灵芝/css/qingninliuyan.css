@@ -1,0 +1,185 @@
+.clear:after
+{
+	clear: both;
+	content:"";
+	display: block;
+}
+.top
+{
+	height: 42px;
+	background: #010102;
+}
+.toper
+{
+	margin:0 auto;
+	width: 1150px;
+	height: 42px;
+}
+.a
+{
+	float: left;
+	width: 100px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0
+{
+	float: left;
+	width: 150px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center; 
+}
+.a0 a
+{
+	color: #dddddd;
+	font-size: 20px;
+	font-family: "microsoft yahei";
+}
+.a a
+{
+	color: #dddddd;
+	font-size: 12px;
+	font-family: "microsoft yahei";
+}
+.footer
+{
+	height: 80px;
+	background: #F4F4F4;
+}
+.foot
+{
+	width: 1150px;
+	margin:0 auto;
+	height: 80px;
+	line-height: 80px;
+}
+.f
+{
+	float: left;
+}
+.f a
+{
+	color: #949494;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	font-size: 12px;
+
+}
+.ff
+{
+	display: inline-block;
+	width: 750px;
+	height: 80px;
+	line-height: 80px;
+	font-family: "microsoft yahei";
+	color: #949494;
+	font-size: 12px;
+	float: left;
+}
+.o
+{
+	float: left;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+}
+.zhong
+{
+	width: 1366px;
+	margin:0 auto;
+	height: 920px;
+	background: #09070E;
+	overflow: hidden;
+}
+.content
+{
+	width: 1140px;
+	height: 820px;
+	margin:50px auto;
+	background: #F5F5F5;
+	font-family: "microsoft yahei";
+	overflow: hidden;
+}
+.liuyan
+{
+	width: 490px;
+	height:610px;
+	background: white;
+	margin:0 auto;
+	overflow: hidden;
+}
+.h1
+{
+	width: 106px;
+	height:25px;
+	background: #CB00DA;
+	margin-top: 40px;
+	margin-left:326px;
+	color: white;
+	font-size: 16px;
+	text-align: center;
+}
+.k
+{
+	width: 196px;
+	height:32px;
+	background: #EBEBEB;
+}
+.l
+{
+	width: 80px;
+	height: 32px;
+	background: #EBEBEB;
+}
+.m
+{
+	width: 327px;
+	height: 103px;
+	background: #EBEBEB;
+	vertical-align: top;
+	resize: none;
+}
+.n
+{
+	width: 74px;
+	height: 31px;
+	background: #EBEBEB;
+}
+.g
+{
+	width: 36px;
+	height: 33px;
+	background: #AEA9A9;
+	vertical-align: middle;
+}
+.liuyan a
+{
+	color: #0027B8;
+	text-decoration: underline; 
+}
+.x
+{
+	margin-left: 50px;
+}
+.v
+{
+	margin-left: 66px;
+}
+.x1
+{
+	margin-top: 60px;
+}
+.tijiao
+{
+	width: 85px;
+	height:32px;
+	background: #70007A;
+	color: white;
+	margin-left: 372px;
+}
+.zz
+{
+	margin-left: 394px;
+}
